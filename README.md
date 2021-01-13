@@ -1,2 +1,2 @@
 # golang
-golang scrpits
+golang scrpits_t
